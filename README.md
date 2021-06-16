@@ -19,7 +19,7 @@ npm install
 ## Usage
 
 ```sh
-node app
+node app.js
 ```
 
 ## Run tests
